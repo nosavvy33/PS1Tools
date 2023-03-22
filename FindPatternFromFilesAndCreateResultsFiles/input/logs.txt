@@ -1,0 +1,10 @@
+agent C123 did
+agent D131 have done
+agent E341 would have done 1
+agent E341 would have done 2
+agent O031 failed to do so
+agent E341 would have done 3
+agent E341 would have done 4
+agent O031 failed to do so
+agent E341 would have done 5 
+agent E341 would have done 6
