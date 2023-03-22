@@ -1,3 +1,5 @@
+#.\FindLike.ps1 -InputFilePath .\input\logs.txt -FilterString "E341"
+
 Param(
     [Parameter(Mandatory=$true, Position=0)]
     [string]$InputFilePath,

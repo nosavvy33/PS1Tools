@@ -1,3 +1,5 @@
+#.\FindRegex.ps1 -InputFilePath .\input\logs.txt -RegexPattern "[A-Z][0-9]{3}"  -MatchFileNames -PrintResults
+
 Param(
     [Parameter(Mandatory=$true, Position=0)]
     [string]$InputFilePath,
